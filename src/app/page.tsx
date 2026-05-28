@@ -7,7 +7,7 @@
         <div style={{ display: "flex", gap: "1.5rem", alignItems: "center" }}>
           <a href="#features" style={{ color: "#64748b", textDecoration: "none", fontSize: "0.9rem" }}>Fonctionnalites</a>
           <a href="#how" style={{ color: "#64748b", textDecoration: "none", fontSize: "0.9rem" }}>Comment ca marche</a>
-          <a href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer" style={{ background: "#06b6d4", color: "#fff", padding: "0.5rem 1.25rem", borderRadius: "8px", textDecoration: "none", fontSize: "0.9rem", fontWeight: 600 }}>Demo gratuite</a>
+          <button data-cal-link="wikolabs-team/30min" data-cal-namespace="wk30min" data-cal-config='{"layout":"month_view"}' type="button" target="_blank" rel="noopener noreferrer" style={{ background: "#06b6d4", color: "#fff", padding: "0.5rem 1.25rem", borderRadius: "8px", textDecoration: "none", fontSize: "0.9rem", fontWeight: 600 }}>Demo gratuite</button>
         </div>
       </nav>
 
@@ -21,7 +21,7 @@
           Generation de donnees synthetiques statistiquement fideles &mdash; entrainez vos modeles sans exposer vos donnees sensibles.
         </p>
         <div style={{ display: "flex", gap: "1rem", justifyContent: "center", flexWrap: "wrap", marginBottom: "3.5rem" }}>
-          <a href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer" style={{ background: "#06b6d4", color: "#fff", padding: "0.85rem 2rem", borderRadius: "10px", textDecoration: "none", fontWeight: 700, fontSize: "1rem" }}>Demander une demo</a>
+          <button data-cal-link="wikolabs-team/30min" data-cal-namespace="wk30min" data-cal-config='{"layout":"month_view"}' type="button" target="_blank" rel="noopener noreferrer" style={{ background: "#06b6d4", color: "#fff", padding: "0.85rem 2rem", borderRadius: "10px", textDecoration: "none", fontWeight: 700, fontSize: "1rem" }}>Demander une demo</button>
           <a href="https://wa.me/261386626100?text=Bonjour%2C%20je%20souhaite%20discuter%20de%20SyntheticData%20avec%20Wikolabs." target="_blank" rel="noopener noreferrer" style={{ background: "#25d366", color: "#fff", padding: "0.85rem 2rem", borderRadius: "10px", textDecoration: "none", fontWeight: 700, fontSize: "1rem" }}>WhatsApp</a>
         </div>
         <div style={{ display: "flex", gap: "2rem", justifyContent: "center", flexWrap: "wrap" }}>
@@ -83,7 +83,7 @@
         <h2 style={{ fontFamily: "var(FONTDISPLAY)", fontSize: "2.25rem", fontWeight: 800, color: "#fff", marginBottom: "1rem" }}>Donnees illimitees, zero risque RGPD</h2>
         <p style={{ color: "#cffafe", fontSize: "1.1rem", marginBottom: "2rem" }}>Premier dataset de 10 000 lignes offert.</p>
         <div style={{ display: "flex", gap: "1rem", justifyContent: "center", flexWrap: "wrap" }}>
-          <a href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer" style={{ background: "#fff", color: "#06b6d4", padding: "0.9rem 2.25rem", borderRadius: "10px", textDecoration: "none", fontWeight: 700, fontSize: "1rem" }}>Planifier une demo</a>
+          <button data-cal-link="wikolabs-team/30min" data-cal-namespace="wk30min" data-cal-config='{"layout":"month_view"}' type="button" target="_blank" rel="noopener noreferrer" style={{ background: "#fff", color: "#06b6d4", padding: "0.9rem 2.25rem", borderRadius: "10px", textDecoration: "none", fontWeight: 700, fontSize: "1rem" }}>Planifier une demo</button>
           <a href="https://wa.me/261386626100?text=Bonjour%2C%20je%20souhaite%20discuter%20de%20SyntheticData%20avec%20Wikolabs." target="_blank" rel="noopener noreferrer" style={{ background: "#25d366", color: "#fff", padding: "0.9rem 2.25rem", borderRadius: "10px", textDecoration: "none", fontWeight: 700, fontSize: "1rem" }}>WhatsApp</a>
         </div>
       </section>
@@ -100,7 +100,7 @@
           <span>·</span>
           <a href="tel:+261386626100" style={{ color: "#94a3b8", textDecoration: "none" }}>+261 38 66 261 00</a>
           <span>·</span>
-          <a href="https://calendly.com/wikolabs" target="_blank" rel="noopener noreferrer" style={{ color: "#94a3b8", textDecoration: "none" }}>Prendre RDV</a>
+          <button data-cal-link="wikolabs-team/30min" data-cal-namespace="wk30min" data-cal-config='{"layout":"month_view"}' type="button" target="_blank" rel="noopener noreferrer" style={{ color: "#94a3b8", textDecoration: "none" }}>Prendre RDV</button>
         </div>        <div style={{ fontSize: "0.8rem", color: "#475569" }}>c 2026 Wikolabs. Tous droits reserves.</div>
       </footer>
     </main>
